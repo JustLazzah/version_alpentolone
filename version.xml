@@ -3,10 +3,10 @@
     <channel>
         <title>Al Pentolone App</title>
         <item>
-            <title>Version 2.0.7</title>
+            <title>Version 2.0.5</title>
             <description>Al Pentolone app, controllo versione</description>
             <pubDate>Sun, 12/11 Sep 2019 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.alpentolone.alpentolone" sparkle:version="2.0.7" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.alpentolone.alpentolone" sparkle:version="2.0.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
